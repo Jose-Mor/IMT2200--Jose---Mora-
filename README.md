@@ -1,4 +1,5 @@
 # Repositorio de Jose-Mor
-José Miguel Mora Gatica
-> Curso Introducción a la ciencia de datos 2025 segundo semestre  
-IMT2200
+De José Miguel Mora Gatica  
+Este repositorio es para contenido pedido en clase de Introducción a la ciencia de datos  
+> IMT2200 - UC  
+2025 segundo semestre
